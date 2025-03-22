@@ -22,7 +22,6 @@ This project showcases two interactive Tableau dashboards created to analyze sal
 ![Profit Dashboard](Visualizations/Profit%20Analysis%20DB.jpg)
 
 ## Tools & Technologies Used
-## Tools & Technologies Used
 - **Tableau Desktop** for dashboard creation and data visualization
 - **Tableau SQL Connector** to connect Tableau with structured data sources - - Connected Tableau Desktop to SQL database using the native connector to query and visualize real-time data.
 - Git & GitHub for version control and collaboration
