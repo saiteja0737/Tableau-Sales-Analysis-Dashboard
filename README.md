@@ -19,7 +19,7 @@ This project showcases two interactive Tableau dashboards created to analyze sal
 - Compares **distribution channels** (E-commerce vs. Brick & Mortar).
 - Highlights **customer-wise profitability** and performance.
 
-![Profit Dashboard]
+![Profit Dashboard](Visualizations/Profit%20Analysis%20DB.jpg)
 
 ## Tools & Technologies Used
 ## 🛠️ Tools & Technologies Used
