@@ -11,7 +11,7 @@ This project showcases two interactive Tableau dashboards created to analyze sal
 - Identifies **top 5 customers** and **top 5 products** by normalized sales.
 - Includes **interactive filters** for year and month.
 
-![Business Dashboard]
+![Business Dashboard](Visualizations/BP%20DB.jpg)
 
 ### 2. Profit Analysis Dashboard
 - Displays **Total Profit** and **Profit Margins** across markets.
